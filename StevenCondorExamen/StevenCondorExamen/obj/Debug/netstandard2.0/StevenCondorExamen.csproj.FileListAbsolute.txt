@@ -1,0 +1,15 @@
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\bin\Debug\netstandard2.0\StevenCondorExamen.deps.json
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\bin\Debug\netstandard2.0\StevenCondorExamen.dll
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\bin\Debug\netstandard2.0\ref\StevenCondorExamen.dll
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\bin\Debug\netstandard2.0\StevenCondorExamen.pdb
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\vistaLogin.xaml.g.cs
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\vistaResumen.xaml.g.cs
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\StevenCondorExamen.AssemblyInfoInputs.cache
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\StevenCondorExamen.AssemblyInfo.cs
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\StevenCondorExamen.csproj.CoreCompileInputs.cache
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\StevenCondorExamen.dll
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\ref\StevenCondorExamen.dll
+C:\Users\Steven Condor\source\repos\StevenCondorExamen\StevenCondorExamen\StevenCondorExamen\obj\Debug\netstandard2.0\StevenCondorExamen.pdb

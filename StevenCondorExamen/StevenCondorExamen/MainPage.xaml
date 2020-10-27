@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StevenCondorExamen.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#254099">
+            <Label x:Name="lblUsuario" Text="Sistema de calificaciones" HorizontalTextAlignment="Center" FontSize="25" TextColor="#fff"/>
+        </Frame>
+        <Label Text="Registro" BackgroundColor="#254099" HorizontalTextAlignment="Center" FontSize="25" TextColor="#fff"/>
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+                
+            <Label Grid.Row="0" Grid.Column="0" Text="Ingrese su nombre: " FontSize="20"/>
+            <Entry x:Name="txtNombre" Grid.Row="0" Grid.Column="1" FontSize="20"/>
+            
+            <Label Grid.Row="1" Grid.Column="0" Text="Ingrese el monto: " FontSize="20"/>
+            <Entry x:Name="txtMonto" Keyboard="Numeric" Grid.Row="1" Grid.Column="1" FontSize="20"/>
+            
+            <Label Grid.Row="2" Grid.Column="0" Text="Cuotas mensuales: " FontSize="20"/>
+            <Entry x:Name="txtMensual" Keyboard="Numeric" IsReadOnly="True" Grid.Row="2" Grid.Column="1" FontSize="20"/>
+
+            <Button Grid.Row="3" x:Name="btnCalcular" Text="Calcular" Clicked="btnCalcular_Clicked" 
+                    BackgroundColor="#254099" TextColor="#fff" FontSize="20" Grid.Column="1"/>
+           
+        </Grid>
+
+        <Button x:Name="btnGuardar" Clicked="btnGuardar_Clicked" Text="Guardar" 
+                 BackgroundColor="#254099" TextColor="#fff" FontSize="20" Grid.Column="1"/>
+
+
+    </StackLayout>
+
+</ContentPage>
